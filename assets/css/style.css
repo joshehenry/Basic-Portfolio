@@ -73,9 +73,10 @@ img {
     background: linear-gradient(white, red);
     height: 50%; 
     width: 50%;    
-    position: fixed; 
+   position: fixed; 
     margin-left: 300px; 
     top: 33%; 
+    float: left; 
     
     
 }
@@ -89,7 +90,7 @@ p {
    text-indent: 0%; 
    left: 31%;
    color: white; 
-   
+  
 }
 
 #img {
