@@ -216,6 +216,13 @@ nav {
 
         width: 100%; 
       }
+
+      .img {
+
+        width: auto;
+        margin: 5px; 
+        padding: auto; 
+      }
   }
 
   @media screen and (max-width: 770px)
@@ -226,12 +233,25 @@ nav {
         width: 100%; 
       }
 
+      .img {
+
+        width: auto;
+        margin: 5px;
+        padding: auto; }
+      }
+
       @media screen and (max-width: 500px) {
         
         .container {
 
           width: 100%;
         }
+
+        .img {
+
+          width: auto;
+          margin: 5px;
+        padding: auto; }
       }
-  }
+  
   
